@@ -1,2 +1,3 @@
-print("Nama: Muhammad Alif Rahlil Ramadhan")
-print("NPM: 2606888055")
+nama = input("Masukkan nama kamu: ")
+print("Halo " + nama)
+print("NPM: 2306123456")
