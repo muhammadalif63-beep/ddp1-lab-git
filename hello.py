@@ -1,3 +1,3 @@
 nama = input("Masukkan nama kamu: ")
-print("Halo " + nama)
-print("NPM: 2306123456")
+npm = input("Masukkan NPM kamu: ")
+print("Halo " + nama + " dengan NPM " + npm)
